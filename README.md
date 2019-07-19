@@ -1,2 +1,2 @@
 # usa-housing
-it describes the back end activities of the data proccessing and clasiifyng the data and predicting price of areaor land
+it describes the back end activities of the data processing and classifying the data and predicting price of area or land
